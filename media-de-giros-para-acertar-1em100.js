@@ -1,7 +1,7 @@
 let numeroAleatorio;
 let i = 0;
 let arr = [];
-let tentativas = 9999999;
+const tentativas = 9999999;
 
 for(let g = 0; g < tentativas; g++){
 while(numeroAleatorio !== 100){
